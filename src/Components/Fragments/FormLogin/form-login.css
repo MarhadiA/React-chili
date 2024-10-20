@@ -1,0 +1,231 @@
+.frame-56{
+    width: 529px;
+    min-height: 663px;
+    display: flex;
+    margin: 181px 456px;
+    flex-direction: column;
+    align-items: center;
+    box-sizing: border-box;
+    border-radius: 16px;
+    padding: 40px;
+    gap: 37px;
+    background-color: rgba(24, 26, 28, 0.84);
+}
+
+.masuk{
+    width: 96px;
+    height: 35px;
+    font-family: 'Lato';
+    font-weight: 700px;
+    font-size: 32px;
+    line-height: 35.2px;
+    text-align: center;
+    color: rgba(255, 255, 255, 1);
+}
+.datang{
+    min-width: 200px;
+    min-height: 22px;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22.4px;
+    text-align: center;
+    color: rgba(255, 255, 255, 1);
+}
+.frame-52{
+    width: 449px;
+    min-height: 81px;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    padding: 0;
+    box-sizing: border-box;
+}
+.username{
+    width: 82px;
+    height: 25px;
+    font-family: 'Lato';
+    font-weight: 500px;
+    font-size: 18px;
+    line-height: 25.2px;
+    letter-spacing: 0.2px;
+    text-align: center;
+    color: white;
+}
+.frame-47{
+    max-width: 449px;
+    max-height: 50px;
+    border-radius: 24px;
+    border: 1px solid;
+    padding: 14px 20px;
+    gap: 10px;
+    border-color: rgba(231, 227, 252, 0.23);
+}
+.input-username{
+    min-width: 148px;
+    min-height: 22px;
+    color: rgba(193, 194, 196, 1);
+    background-color: transparent;
+    border: none;
+}
+.input-username{
+    outline: none;
+    color: white;
+}
+.password{
+    min-width: 449px;
+    min-height: 112px;
+    gap: 12px;
+}
+.frame-53{
+    max-width: 449px;
+    min-height: 78px;
+    gap: 6px;
+}
+.frame-51{
+    min-width: 86px;
+    min-height: 25px;
+    gap: 10px
+}
+.label-pass{
+    width: 86px;
+    height: 25px;
+    font-family: 'Lato';
+    font-weight: 500px;
+    font-size: 18px;
+    line-height: 25.2px;
+    letter-spacing: 0.2px;
+    text-align: center;
+    color: white;
+}
+.frame-49{
+    max-width: 449px;
+    max-height: 47px;
+    border-radius: 24px;
+    border: 1px solid;
+    padding: 20px 14px;
+    border-color: rgba(231, 227, 252, 0.23);
+    display: flex;
+    justify-content: space-between;
+    box-sizing: border-box;
+    align-items: center;
+}
+.input-sandi{
+    min-width: 150px;
+    min-height: 22px;
+    color: rgba(193, 194, 196, 1);
+    background-color: transparent;
+    border: none;
+}
+.input-sandi{
+    outline: none;
+    color: white;
+}
+.btn{
+    background-color: transparent;
+    border: none;
+    outline-color: none;
+}
+.frame-55{
+    max-width: 449px;
+    min-height: 22px;
+    display: flex;
+    justify-content: space-between;
+
+}
+.frame-54{
+    min-width: 189px;
+    display: flex;
+    flex-direction: row;
+    height: 22px;
+    font-family: 'Lato';
+    font-weight: 400px;
+    font-size: 16px;
+    line-height: 19.6px;
+    letter-spacing: 0.2px;
+    text-align: center;
+    color: white;   
+}
+.dftr{
+    font-family: 'Lato';
+    font-weight: 500px;
+    font-size: 16px;
+    line-height: 22.4px;
+    letter-spacing: 0.2px;
+    text-align: center;
+    color: white; 
+}
+.lupa-sandi{
+    min-width: 119px;
+    height: 22px;
+    font-family: 'Lato';
+    font-weight: 400px;
+    font-size: 16px;
+    line-height: 22.4px;
+    letter-spacing: 0.2px;
+    text-align: center;
+    color: white; 
+}
+.tombol{
+    min-width: 449px;
+    min-height: 133px;
+    gap: 8px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.btn-sign{
+    min-width: 449px;
+    min-height: 50px;
+    border-radius: 24px;
+    border: 1px;
+    padding: 14px 20px;
+    gap: 10px;
+    background-color: rgba(61, 65, 66, 1);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.sign{
+    min-width: 449px;
+    min-height: 50px;
+    border-radius: 24px;
+    border: solid 1px;
+    border-color:  rgba(61, 65, 66, 1) ;
+    padding: 14px 20px;
+    gap: 10px;
+    background-color: transparent;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.msk{
+    width: 48px;
+    height: 22px;
+    font-family: 'Lato';
+    font-weight: 600px;
+    font-size: 16px;
+    line-height: 22.4px;
+    letter-spacing: 0.2px;
+    text-align: center;
+    color: white;
+}
+.atau{
+    font-family: 'Lato';
+    font-weight: 500px;
+    font-size: 14px;
+    line-height: 19.6px;
+    letter-spacing: 0.2px;
+    color: rgba(157, 158, 161, 1);
+}
+.spn-google{
+    font-family: 'Lato';
+    font-weight: 600px;
+    font-size: 16px;
+    line-height: 22.4px;
+    letter-spacing: 0.2px;
+    color:rgba(255, 255, 255, 1);
+}

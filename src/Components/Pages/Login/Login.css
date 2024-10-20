@@ -1,0 +1,14 @@
+.container{
+    width: 100vw;
+    height: 100vh;
+    background-image: url(../../../assets/Backrond.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+
+}

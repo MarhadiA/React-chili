@@ -1,0 +1,209 @@
+.frame-56{
+    width: 529px;
+    min-height: 778px;
+    margin: 123px 456px;
+    border-radius: 16px;
+    padding: 40px;
+    gap: 37px;
+    background-color: rgba(24, 26, 28, 0.84);
+    display: flex;
+    flex-direction: column;
+    /* grid-template-columns: auto auto auto auto auto auto; */
+    align-items: center;
+
+}
+.logo{
+    min-width: 163px;
+    max-height: 44px;
+}
+
+.frame-63{
+    min-width: 115px;
+    min-height: 65px;
+    row-gap: 8px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+    padding: 0;
+}
+.Dftr-txt{
+    width: 93px;
+    height: 35px;
+    font-weight: 700px;
+    font-size: 32px;
+    line-height: 35.2px;
+    color: rgba(255, 255, 255, 1);
+    text-align: center;
+    font-family: 'Lato';
+}
+.Datang{
+    min-width: 300px;
+    min-height: 22px;
+    font-family: 'Lato';
+    font-weight: 400px;
+    font-size: 16px;
+    line-height: 22.4px;
+    letter-spacing: 0.2px;
+    text-align: center;
+    color: rgba(255, 255, 255, 1);
+}
+.frame-52{  
+    width: 449px;
+    min-height: 81px;
+    box-sizing: border-box;
+    gap: 6px;
+    padding: 0;
+    /* display: flex;
+    flex-direction: column;
+    align-content: flex-start; */
+}
+.frame-50{
+    min-width: 82px;
+    min-height: 25px;
+    padding: 0;
+}
+.username{
+    min-width: 82px;
+    min-height: 25px;
+    font-family: 'Lato';
+    font-weight: 500px;
+    font-size: 18px;
+    line-height: 25.2px;
+    letter-spacing: 0.2px;
+    color: rgba(255, 255, 255, 1);
+}
+.input-username{
+    background-color: transparent;
+    max-width: 148px;
+    min-height: 22px;
+    color: rgba(193, 194, 196, 1);
+    background-color: transparent;
+    border: none;
+}
+.input-username{
+    outline: none;
+    color: white;
+}
+.password{
+    min-width: 441px;
+    min-height: 78px;
+    gap: 12px;  
+}
+.frame-53{
+    max-width: 441px;
+    min-height: 78px;
+    gap: 6px;
+    /* display: flex;
+    flex-direction: column;
+    align-items: start; */
+}
+.frame-51{
+    min-width: 86px;
+    min-height: 25px;
+    gap: 10px;
+}
+.sandi{
+    width: 86px;
+    height: 25px;
+    font-family: 'Lato';
+    font-weight: 500px;
+    font-size: 18px;
+    line-height: 25.2px;
+    letter-spacing: 0.2px;
+    text-align: center;
+    color: rgba(255, 255, 255, 1)
+}.frame-55{
+    min-width: 190px;
+    min-height: 22px;
+    gap: 141px;
+}
+.frame-54{
+    min-height: 22px;
+    min-width: 190px;
+    gap: 6px;
+}
+.text-akun{
+    font-family: 'Lato';
+    font-weight: 400px;
+    font-size: 14px;
+    line-height: 19.6px;
+    letter-spacing: 0.2px;
+    color: white;
+}
+.span-msk{
+    font-family: 'Lato';
+    font-weight: 500px;
+    font-size: 16px;
+    line-height: 22.4px;
+    letter-spacing: 0.2px;
+    color: white;
+}
+.tombol{
+    width: 449px;
+    min-height: 133px;
+    gap: 8px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.btn-sign{
+    width: 440px;
+    min-height: 50px;
+    border-radius: 24px;
+    border: 1px;
+    padding: 14px 20px;
+    gap: 10px;
+    background-color: rgba(61, 65, 66, 1);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.sign{
+    min-width: 449px;
+    min-height: 50px;
+    border-radius: 24px;
+    border: solid 1px;
+    border-color:  rgba(61, 65, 66, 1) ;
+    padding: 14px 20px;
+    gap: 10px;
+    background-color: transparent;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.dftr{
+    width: 46px;
+    height: 22px;
+    font-family: 'Lato';
+    font-weight: 600px;
+    font-size: 16px;
+    line-height: 22.4px;
+    letter-spacing: 0.2px;
+    color: rgba(255, 255, 255, 1);
+}
+.atau{
+    font-family: 'Lato';
+    font-weight: 500px;
+    font-size: 14px;
+    line-height: 19.6px;
+    letter-spacing: 0.2px;
+    color: rgba(157, 158, 161, 1);
+}
+.google{
+    width: 18px;
+    height: 18px;
+}
+.spn-google{
+    font-family: 'Lato';
+    font-weight: 600px;
+    font-size: 16px;
+    line-height: 22.4px;
+    letter-spacing: 0.2px;
+    color:rgba(255, 255, 255, 1);
+}
